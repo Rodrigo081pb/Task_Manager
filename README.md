@@ -9,9 +9,6 @@ Este projeto é um exemplo prático de como construir um board de tarefas em Jav
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Executar](#como-executar)
-- [Expansões Futuras](#expansões-futuras)
-- [Autor](#autor)
 
 ## Descrição
 
